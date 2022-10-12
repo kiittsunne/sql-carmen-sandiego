@@ -1,5 +1,7 @@
 # Use SQL to find Carmen Sandiego
 
+*For MySQL:* see the starter_code folder for set-up instructions.
+
 ## Introduction
 
 > ***Note:*** _This can be a pair programming activity or done independently._
